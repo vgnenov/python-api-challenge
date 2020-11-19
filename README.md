@@ -36,6 +36,19 @@ Second create and run linear regression on each relationship and separate them i
 ### Regression Analysis (Northern vs Southern)
 ![Screenshot](/Instructions/Screenshots/NReg.jpg "Screenshot")
 ![Screenshot](/Instructions/Screenshots/SReg.jpg "Screenshot")
-#### ^ Clicke Me ^
+
+
+## Purpose Part 2 - VacationPy
+
+Use jupyter-gmaps and Google Places API with our previously cleaned weather data from Part 1 to plan a future vacation.
+
+## Process
+Utilizing Google Places API, Jupyter Lab, Python and the Python library to create a heatmap that displays humidity for every city from part 1.  The data will be narrowed down to ideal weather conditions (i.e. wind speed less then 10mph, min temp 70 but no higher than 80, zero cloudiness etc).  Hotels will be plotted on the heatmap with each pin containing the Hotel Name, City and Country.
+
+## Results and Observations (Condensed)
+
+
+
+
 
 
