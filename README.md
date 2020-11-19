@@ -27,4 +27,4 @@ Second create and run linear regression on each relationship and separate them i
 ## Results and Data Observations (Condensed)
 
 ![Screenshot](/Instructions/Screenshots/Fig1.jpg "Screenshot")
-![Screenshot](/Instructions/Screenshots/Fig1a.jpg "Screenshot")
+![Screenshot](/Instructions/Screenshots/Fig1a.JPG "Screenshot")
