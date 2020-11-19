@@ -33,3 +33,8 @@ Second create and run linear regression on each relationship and separate them i
 ![Screenshot](/Instructions/Screenshots/Fig3a.JPG "Screenshot")
 ![Screenshot](/Instructions/Screenshots/Fig3.jpg "Screenshot")
 
+### Regression Analysis (Northern vs Southern)
+![Screenshot](/Instructions/Screenshots/NReg.jpg "Screenshot")
+![Screenshot](/Instructions/Screenshots/SReg.jpg "Screenshot")
+
+
