@@ -23,3 +23,8 @@ Second create and run linear regression on each relationship and separate them i
 - Southern Hemisphere - Cloudiness (%) vs. Latitude
 - Northern Hemisphere - Wind Speed (mph) vs. Latitude
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+## Results and Data Observations (Condensed)
+
+![Screenshot](/Instructions/Screenshots/Fig1.jpg "Screenshot")
+![Screenshot](/Instructions/Screenshots/Fig1a.jpg "Screenshot")
