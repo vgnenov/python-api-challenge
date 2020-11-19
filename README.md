@@ -30,3 +30,6 @@ Second create and run linear regression on each relationship and separate them i
 ![Screenshot](/Instructions/Screenshots/Fig1a.JPG "Screenshot")
 ![Screenshot](/Instructions/Screenshots/Fig1.jpg "Screenshot")
 
+![Screenshot](/Instructions/Screenshots/Fig3a.JPG "Screenshot")
+![Screenshot](/Instructions/Screenshots/Fig3.jpg "Screenshot")
+
