@@ -47,10 +47,11 @@ Utilizing Google Places API, Jupyter Lab, Python and the Python library to creat
 
 ## Results and Observations (Condensed)
 
-### North American Heatmap 
+### North American Heatmap Showing Desirable Vacation Locations
 ![Screenshot](/Instructions/Screenshots/NAHeatMap.jpg "Screenshot")
 
-
+### World Heatmap
+![Screenshot](/Instructions/Screenshots/hotel_map.jpg "Screenshot")
 
 
 
